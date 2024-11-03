@@ -1,11 +1,11 @@
 # Task-Tracker-CLI
 A Python CLI program with the ability to store tasks along with their status and description in a .json file using a command line that accepts positional arguments as input.
 
-Use:
+**Use:**
 
     task-cli command arguments
 
-commands:
+**Commands:**
 
     #add: add a task to the file .json 
     task-cli add '(description of the task)'
