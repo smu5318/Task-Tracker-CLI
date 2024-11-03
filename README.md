@@ -2,6 +2,7 @@
 A Python CLI program with the ability to store tasks along with their status and description in a .json file using a command line that accepts positional arguments as input.
 
 Use:
+
     task-cli command arguments
 
 commands:
@@ -21,9 +22,12 @@ commands:
     #mark-done: change the status of a task to "done"
     task-cli mark-done (id of the task)
 
+
     #list: print the tasks line by line
     #filters: all, done, todo, in-progress
-    task-cli list (filter)
+    task-cli list (filter)    
             
     #exit: end program
     task-cli exit
+
+https://roadmap.sh/projects/task-tracker
